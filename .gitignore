@@ -1,0 +1,8 @@
+/target
+ffmpeg.exe
+ffmpeg_pkg.zip
+/ffmpeg_tmp
+*.osvj
+*.mov
+*.mp4
+*.exe
